@@ -1,0 +1,5 @@
+/Users/prashantsuyal/Desktop/Vertiv/OTPGeneration/Tests/obj/Debug/net6.0/Tests.csproj.AssemblyReference.cache
+/Users/prashantsuyal/Desktop/Vertiv/OTPGeneration/Tests/obj/Debug/net6.0/Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prashantsuyal/Desktop/Vertiv/OTPGeneration/Tests/obj/Debug/net6.0/Tests.AssemblyInfoInputs.cache
+/Users/prashantsuyal/Desktop/Vertiv/OTPGeneration/Tests/obj/Debug/net6.0/Tests.AssemblyInfo.cs
+/Users/prashantsuyal/Desktop/Vertiv/OTPGeneration/Tests/obj/Debug/net6.0/Tests.csproj.CoreCompileInputs.cache

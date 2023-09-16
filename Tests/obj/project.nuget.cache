@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Tf378ClMWxsksumUMH6I8IDmtUa3cf4JzZCh3enRVwJfyPEXrdvkLtHZQqE6rrAzbYApQ5/SyCOVu5kgcnx6g==",
+  "success": true,
+  "projectFilePath": "/Users/prashantsuyal/Desktop/Vertiv/OTPGeneration/Tests/Tests.csproj",
+  "expectedPackageFiles": [
+    "/Users/prashantsuyal/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/prashantsuyal/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/prashantsuyal/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/prashantsuyal/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/prashantsuyal/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/prashantsuyal/.nuget/packages/otp.net/1.3.0/otp.net.1.3.0.nupkg.sha512",
+    "/Users/prashantsuyal/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/prashantsuyal/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/prashantsuyal/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/prashantsuyal/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/prashantsuyal/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.16/microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "/Users/prashantsuyal/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.16/microsoft.netcore.app.host.osx-arm64.6.0.16.nupkg.sha512",
+    "/Users/prashantsuyal/.nuget/packages/microsoft.netcore.app.ref/6.0.16/microsoft.netcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
