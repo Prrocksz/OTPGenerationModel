@@ -10,6 +10,13 @@ namespace OTPGeneration.Model
         {
             _otpModel = new OTPModel();
         }
+
+        /// <summary>
+        /// Method generates OTP valid for only 30 seconds
+        /// </summary>
+        /// <param name="userId"></param>
+        /// <param name="dateTime"></param>
+        /// <returns></returns>
         public OTPModel GenerateOTP(string userId, DateTime dateTime)
         {
             var secretKey = KeyGeneration.GenerateRandomKey(20);
