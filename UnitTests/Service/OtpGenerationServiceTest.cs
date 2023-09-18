@@ -20,9 +20,11 @@ namespace UnitTests.Service
             Assert.IsNotNull(result);
 
             // Extract properties from the response object for further assertions
-            dynamic response = result;
-            Assert.IsNotNull(response.otp);
-            Assert.IsNotNull(response.rem_time);
+            OTPModel testResponse = result;
+
+            Assert.IsNotNull(testResponse.UserId);
+            Assert.IsNotNull(testResponse.remTime);
+            Assert.IsNotNull(testResponse.Token);
         }
     }
 }

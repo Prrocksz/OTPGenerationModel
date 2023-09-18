@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using OTPGeneration.Model;
 
 
@@ -13,7 +9,7 @@ namespace OTPGeneration.Controllers
     {
         private readonly IOtpService _otpService;
 
-        public OtpGenerationController (OtpService otpService)
+        public OtpGenerationController (IOtpService otpService)
         {
             _otpService = otpService;
         }
